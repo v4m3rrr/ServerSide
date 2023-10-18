@@ -1,6 +1,7 @@
 # ServerSide
 Server-side code refers to the code that runs on a server, which is responsible for handling requests from client-side applications, processing data, and generating responses. 
 
+[![Youtbe splendor](http://img.youtube.com/vi/BrBzrBPXHg4/0.jpg)](http://www.youtube.com/watch?v=BrBzrBPXHg4 "Splendor")
 ## What does this repository actually contain?
 1. A WebSocket server which is responsible for:
    * handling requests from **ClientSide**.
